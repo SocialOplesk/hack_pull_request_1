@@ -1,4 +1,4 @@
-# Social Oplesk
+# SOCIAL OPLESK
 ### 🏴‍☠️ HACK-GROUP
 
 <br/>
