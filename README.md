@@ -76,7 +76,7 @@ README.md
 ```
 ---
 
-## ✔️ H-1 (Pull Request Alfa)
+## 🏆 H-1 (Pull Request Alfa)
 
 #### 👽 (Alfa)
 ```sh
@@ -106,7 +106,7 @@ README.md
     git merge upstream/main
 ```
 
-## ✔️ H-2 (Pull Request Bravo)
+## 🏆 H-2 (Pull Request Bravo)
 
 #### 👽 (Bravo)
 ```sh
@@ -136,7 +136,7 @@ README.md
     git merge upstream/main 
 ```
 
-## ✔️ H-3 (Pull Request Charlie)
+## 🏆 H-3 (Pull Request Charlie)
 
 #### 👽 (Charlie)
 ```sh
@@ -166,7 +166,7 @@ README.md
     git merge upstream/main 
 ```
 
-## ✔️ H-4 (Pull Request Delta)
+## 🏆 H-4 (Pull Request Delta)
 
 #### 👽 (Delta)
 ```sh
