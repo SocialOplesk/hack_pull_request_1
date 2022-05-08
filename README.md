@@ -196,4 +196,4 @@ README.md
     git merge upstream/main 
 ```
 ---
-<h3 align="center">social oplesk</h3>
+<h3 align="center">SOCIAL OPLESK</h3>
